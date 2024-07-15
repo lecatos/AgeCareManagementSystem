@@ -8,7 +8,7 @@ Make sure to have these app installed:
 ## 2. Clone the project
 On the terminal, cd to prefered directory then type
 ```shell
-git clone https://github.com/Squishyblox/ProjectA.git
+git clone https://github.com/lecatos/AgeCareManagementSystem.git
 ```
 if you don't have git just download the project's zip file and extract to your prefered location.
 ## 3. Installing Dependencies
